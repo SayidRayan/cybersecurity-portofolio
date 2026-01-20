@@ -42,3 +42,4 @@ My career objective is to build a strong foundation in cybersecurity and develop
 ## Contact Information
 - GitHub: https://github.com/SayidRayan
 - Email: 24215745@siswa.um.edu.my
+- LinkedIn: https://www.linkedin.com/in/sayid-rayan-1584a3193/
