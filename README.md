@@ -2,7 +2,7 @@
 
 ## About Me
 Hi! My name is Sayid Rayan, and I am currently pursuing my Master of Science (MSc) in Cyber Security at the University of Malaya. I am passionate about understanding how cyber threats work and how to defend systems against real-world attacks.
-I have a strong interest in areas such as network security, ethical hacking, and digital forensics, and I enjoy learning through practical hands-on tasks like vulnerability assessments and security testing. My goal is to continuously improve my technical skills and build a career in the cybersecurity industry.
+I have a strong interest in areas such as network security, ethical hacking, and digital forensics, and I enjoy learning through practical hands-on tasks like vulnerability assessments and security testing. My goal is to continuously improve my technical skills and build a career in the cybersecurity industry.Through coursework, labs, and research-based projects, I am developing analytical and technical skills essential for understanding and mitigating modern cyber threats.
 
 ## Technical Skills
 - Networking fundamentals (TCP/IP, DNS, HTTP/HTTPS)
